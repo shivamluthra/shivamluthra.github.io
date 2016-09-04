@@ -1,0 +1,164 @@
+body
+{
+    background-color: #ffff99;
+}
+.leftside
+{
+    background-color: #1f1f14;
+    height: 667px;
+}
+.img-circle
+{
+    margin-top: 15%;
+    margin-left: 15%;
+    width: 220px;
+    height: 220px;
+}
+.bio
+{
+    text-align: center;
+	color: white;
+	text-shadow: 2px 2px #333333;
+}
+.links
+{
+    margin-top: 50px;
+}
+.icons
+{
+	width: 300px;
+	height: 35px;
+	margin-top: 12px;
+}
+.icons i
+{
+    padding-right: 7%;
+    padding-left: 7%;
+}
+.rightside
+{
+    background-color: #ffff99;
+    height: 667px;
+}
+.title h1
+{
+    margin-left: 25%;
+    margin-top: 8%;
+}
+.myname /* about.html */
+{
+	color: #444;
+    font-family: sans-serif;
+    font-size: 28px;
+    font-weight: 100;
+}
+.skills /* about.html */
+{
+	color: #444;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 20px;
+    text-align: justify;
+}
+.credits /* about.html */
+{
+	color: #444;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+    text-align: justify;
+}
+.posts
+{
+    margin-left: 10%
+}
+.contact
+{
+    display: inline;
+}
+
+@media only screen and (max-width : 480px)
+    
+    {
+        
+.leftside
+{
+    background-color: #1f1f14;
+    height: auto;
+}
+.img-circle
+{
+    width: 170px;
+    height: 170px;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+.bio
+{
+    text-align: center;
+	color: white;
+	text-shadow: 2px 2px #333333;
+}
+.links
+{
+    margin-top: 50px;
+}
+.icons
+{
+	width: 300px;
+	height: 35px;
+	margin-top: 12px;
+}
+.icons i
+{
+    padding-right: 7%;
+    padding-left: 7%;
+}
+.rightside
+{
+    background-color: #ffff99;
+    height: auto;
+    margin-top: 0px;
+}
+.title h1
+{
+    margin-top: 6%;
+    padding-top: 20px;
+    margin-left: 15%;
+}
+.myname /* about.html */
+{
+	color: #444;
+    font-family: sans-serif;
+    font-size: 28px;
+    font-weight: 100;
+}
+.skills /* about.html */
+{
+	color: #444;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: 20px;
+    text-align: justify;
+}
+.credits /* about.html */
+{
+	color: #444;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+    text-align: justify;
+}
+.posts
+{
+    margin-left: 10%
+}
+.contact
+{
+    display: inline;
+    font-size: 15px;
+}
+        
+    }
